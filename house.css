@@ -1,0 +1,55 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url('https://adorable-home.com/wp-content/uploads/2016/06/Modern-dark-interiors-5.jpg');
+}
+a:hover{
+    color: rgb(153, 205, 250);
+    text-decoration: underline;
+
+}
+.first{
+    font-size: 25px;
+}
+a:active{
+    color:bisque;
+}
+.second{
+    margin-left: 500px;
+}
+a{
+    margin-left: 100px;
+    color:aliceblue;
+    text-decoration: none ;
+}
+div{
+    display: flex;
+    color: aliceblue;
+    margin-top: 15px;
+}
+.head{
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 450px;
+    margin-top: 300px;
+}
+.matter{
+    font-size: 20px;
+    margin-left: 500px;
+}
+.matter1{
+    font-size: 20px;
+    margin-left: 570px;
+}
+.one{
+    font-size: 20px;
+    margin-top: 1%;
+    margin-left: 400px;
+    text-align: center;
+}
+.two{
+    font-size: 20px;
+    margin-top: 1%;
+    margin-left: 50px;
+    text-align: center;
+}
